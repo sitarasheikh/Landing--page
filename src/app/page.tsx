@@ -46,7 +46,7 @@ const Home = () => {
         
         <section id="contact" className="mt-20">
           <h2 className="text-4xl font-bold text-center">Contact</h2>
-          <p className="text-xl mt-4 text-center">Let's work together on your next project!</p>
+          <p className="text-xl mt-4 text-center">Lets work together on your next project!</p>
           <div className="mt-6 flex justify-center">
             <a href="mailto:sitara_sheikh@hotmail.com" className="px-6 py-3 bg-white text-purple-700 font-semibold rounded-lg hover:bg-purple-700 hover:text-white transition">
               Email Me
@@ -56,7 +56,8 @@ const Home = () => {
       </main>
       
       <footer className="mt-20 p-5 text-center">
-        <p>© 2024 Sitara Ishtiaq. All rights reserved.</p>
+      <p> 2024 Sitara Ishtiaq. All rights reserved.&apos;</p>
+
       </footer>
     </div>
   );
